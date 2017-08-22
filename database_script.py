@@ -1,3 +1,4 @@
+# Script for creating and updating a SQLite DB.
 import sqlite3
 
 def create_table():
